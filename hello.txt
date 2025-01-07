@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 hello world
 main branch
 switch
-=======
-ihello world
-branch2
->>>>>>> branch2
+merge_message
